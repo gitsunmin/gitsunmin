@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=007E7E&height=200&section=header&text=Gitsunmin&fontColor=F4631E&fontAlignX=45&fontAlignY=35&fontSize=80&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=007E7E&height=180&section=header&text=Gitsunmin&fontColor=F4631E&fontAlignX=45&fontAlignY=35&fontSize=80&animation=twinkling)
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
@@ -19,4 +19,4 @@ I'm Front-End developer. 🌱
   <img src="https://img.shields.io/badge/-Svelte-orange"/>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=Waving&color=007E7E&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=Waving&color=007E7E&height=100&section=footer)
