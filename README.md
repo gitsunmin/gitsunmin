@@ -4,13 +4,12 @@
 <p align="center">
 I'm Front-End developer. 🌱 
 </p>
+
 <h3 align="center">⚙️ Programing Language ⚙️</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-yellow"/>&nbsp
   <img src="https://img.shields.io/badge/-TypeScript-blue"/>&nbsp
 </p>
-
-<br />
 
 <h3 align="center">📚 Framework && library 📚</h3>
 <p align="center">
