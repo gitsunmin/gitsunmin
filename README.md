@@ -2,12 +2,21 @@
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
-I'm Frontend developer. 🌱 
+I'm Front-End developer. 🌱 
 </p>
-<h3 align="center">📚 Technology Stack 📚</h3>
+<h3 align="center">📚 Programing Language 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-yellow"/>&nbsp
-  <img src="https://img.shields.io/badge/-TypeScript-blue"/>
+  <img src="https://img.shields.io/badge/-TypeScript-blue"/>&nbsp
+</p>
+
+<br />
+
+<h3 align="center">📚 Framework && library 📚</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Vue-green"/>&nbsp
+  <img src="https://img.shields.io/badge/-React-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-Svelte-orange"/>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=Waving&color=007E7E&height=150&section=footer)
