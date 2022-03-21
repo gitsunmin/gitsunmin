@@ -4,7 +4,7 @@
 <p align="center">
 I'm Front-End developer. 🌱 
 </p>
-<h3 align="center">📚 Programing Language 📚</h3>
+<h3 align="center">⚙️ Programing Language ⚙️</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-yellow"/>&nbsp
   <img src="https://img.shields.io/badge/-TypeScript-blue"/>&nbsp
@@ -15,7 +15,7 @@ I'm Front-End developer. 🌱
 <h3 align="center">📚 Framework && library 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-Vue-green"/>&nbsp
-  <img src="https://img.shields.io/badge/-React-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-React-skyblue"/>&nbsp
   <img src="https://img.shields.io/badge/-Svelte-orange"/>
 </p>
 
