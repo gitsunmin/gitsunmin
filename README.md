@@ -1,5 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=170&section=header&text=Gitsunmin&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=007E7E&height=200&section=header&text=Gitsunmin&fontColor=F4631E&fontAlignX=45&fontAlignY=35&fontSize=80&animation=twinkling)
 
-<img src="https://img.shields.io/badge/Javascript-3766AB?style=flat-square&logo=Javascript&logoColor=Yellow"/></a>
+<h3 align="center"> 👋 Hi there 👋 </h3>
+<p align="center">
+developer. 🌱 
+</p>
+<h3 align="center">📚 Technology Stack 📚</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-yellow"/>
+</p>
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=Waving&color=007E7E&height=150&section=footer)
