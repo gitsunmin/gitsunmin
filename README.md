@@ -14,7 +14,7 @@ I'm Front-End developer. 🌱
 <h3 align="center">📚 Framework && library 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-Vue-42B883"/>&nbsp
-  <img src="https://img.shields.io/badge/-React-E10098"/>&nbsp
+  <img src="https://img.shields.io/badge/-React-61DBFB"/>&nbsp
   <img src="https://img.shields.io/badge/-Svelte-EC4f27"/>&nbsp
   <img src="https://img.shields.io/badge/-GraphQL-E10098"/>
 </p>
