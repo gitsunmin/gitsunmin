@@ -15,7 +15,8 @@ I'm Front-End developer. 🌱
 <p align="center">
   <img src="https://img.shields.io/badge/-Vue-teal"/>&nbsp
   <img src="https://img.shields.io/badge/-React-skyblue"/>&nbsp
-  <img src="https://img.shields.io/badge/-Svelte-orange"/>
+  <img src="https://img.shields.io/badge/-Svelte-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-GraphQL-E10098"/>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=Waving&color=007E7E&height=100&section=footer)
