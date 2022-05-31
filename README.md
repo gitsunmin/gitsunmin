@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=007E7E&height=100&section=header&text=Gitsunmin&fontColor=F4631E&fontAlignX=45&fontAlignY=35&fontSize=40&animation=twinkling)
 
-<h3> 👋 안녕하세요.</h3>
+<h3 align="center"> 👋 안녕하세요.</h3>
 
 <h3>⚙️프로그래밍 언어</h3>
 <p>
