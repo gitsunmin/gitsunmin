@@ -3,13 +3,11 @@
 <!-- 아이콘 관련 URL: https://simpleicons.org/ -->
 <!-- 뱃지 관련 URL: https://shields.io/ -->
 
-<h3 align="center">⚙️ 프로그래밍 언어</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white"/>&nbsp
 </p>
 
-<h3 align="center">📚 프래임워크 && 라이브러리 </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-Vue-42B883?logo=Vue.js&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-React-61DBFB?logo=react&logoColor=white"/>&nbsp
