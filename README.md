@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white"/>&nbsp
   <br />
-  <img src="https://img.shields.io/badge/-StyledComponents-DB7093?logo=jest&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-StyledComponents-DB7093?logo=styledComponents&logoColor=white"/>&nbsp
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=Waving&color=007E7E&height=50&section=footer)
