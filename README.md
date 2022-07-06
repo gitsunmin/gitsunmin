@@ -3,6 +3,8 @@
 <!-- 아이콘 관련 URL: https://simpleicons.org/ -->
 <!-- 뱃지 관련 URL: https://shields.io/ -->
 
+[![About Me](https://github-readme-stats.vercel.app/api?username=gitsunmin&show_icons=true&theme=tokyonight)](https://github.com/gitsunmin)
+
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white"/>&nbsp
