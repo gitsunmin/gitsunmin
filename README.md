@@ -3,7 +3,6 @@
 <!-- 아이콘 관련 URL: https://simpleicons.org/ -->
 <!-- 뱃지 관련 URL: https://shields.io/ -->
 
-[![About Me](https://github-readme-stats.vercel.app/api?username=gitsunmin&show_icons=true&theme=algolia)](https://github.com/gitsunmin)
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white"/>&nbsp
@@ -23,5 +22,7 @@
   <img src="https://img.shields.io/badge/-Scss/Sass-CC6699?logo=sass&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-StyledComponents-DB7093?logo=styledComponents&logoColor=white"/>&nbsp
 </p>
+
+[![About Me](https://github-readme-stats.vercel.app/api?username=gitsunmin&show_icons=true&theme=algolia)](https://github.com/gitsunmin)
 
 ![footer](https://capsule-render.vercel.app/api?type=Waving&color=007E7E&height=50&section=footer)
