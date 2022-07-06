@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=007E7E&height=100&section=header&text=Gitsunmin&fontColor=F4631E&fontAlignX=45&fontAlignY=35&fontSize=40&animation=twinkling"/>
 </p>
-<!-- ![header](https://capsule-render.vercel.app/api?type=Waving&color=007E7E&height=100&section=header&text=Gitsunmin&fontColor=F4631E&fontAlignX=45&fontAlignY=35&fontSize=40&animation=twinkling) -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gitsunmin&show_icons=true&theme=algolia"/>
@@ -33,4 +32,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=007E7E&height=50&section=footer"/>
 </p>
-![footer](https://capsule-render.vercel.app/api?type=Waving&color=007E7E&height=50&section=footer)
