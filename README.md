@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/-Vue-42B883?logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-React-61DBFB?logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Svelte-EC4f27?logo=svelte&logoColor=white"/>
+  <br />
   <img src="https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white"/>
   <br />
   <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white"/>
