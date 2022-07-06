@@ -13,6 +13,7 @@
 <br />
     
 ## 사용가능한 기술
+<p>
   <!-- 사용가능한 언어 -->
   <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white"/>
@@ -32,6 +33,7 @@
   <!-- About Style -->
   <img src="https://img.shields.io/badge/-Scss/Sass-CC6699?logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/-StyledComponents-DB7093?logo=styledComponents&logoColor=white"/>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=007E7E&height=50&section=footer"/>
