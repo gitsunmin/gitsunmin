@@ -3,6 +3,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=007E7E&height=100&section=header&text=Gitsunmin&fontColor=F4631E&fontAlignX=45&fontAlignY=35&fontSize=40&animation=twinkling"/>
 </p>
+
+## 인사말
 <p align="center">
   👋 안녕하세요. <br />
   👍🏻 제 레파지토리에 방문해 주셔서 감사합니다. <br />
@@ -13,6 +15,7 @@
 </p>
 
 <p align="center">
+  ## 사용가능한 기술
   <!-- 사용가능한 언어 -->
   <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white"/>&nbsp
