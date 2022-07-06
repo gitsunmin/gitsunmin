@@ -1,7 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=007E7E&height=100&section=header&text=Gitsunmin&fontColor=F4631E&fontAlignX=45&fontAlignY=35&fontSize=40&animation=twinkling)
-
 <!-- 아이콘 관련 URL: https://simpleicons.org/ -->
 <!-- 뱃지 관련 URL: https://shields.io/ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=007E7E&height=100&section=header&text=Gitsunmin&fontColor=F4631E&fontAlignX=45&fontAlignY=35&fontSize=40&animation=twinkling"/>
+</p>
+<!-- ![header](https://capsule-render.vercel.app/api?type=Waving&color=007E7E&height=100&section=header&text=Gitsunmin&fontColor=F4631E&fontAlignX=45&fontAlignY=35&fontSize=40&animation=twinkling) -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gitsunmin&show_icons=true&theme=algolia"/>
@@ -27,4 +29,8 @@
   <img src="https://img.shields.io/badge/-StyledComponents-DB7093?logo=styledComponents&logoColor=white"/>&nbsp
 </p>
 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=007E7E&height=50&section=footer"/>
+</p>
 ![footer](https://capsule-render.vercel.app/api?type=Waving&color=007E7E&height=50&section=footer)
