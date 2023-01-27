@@ -7,9 +7,6 @@
 ## 인사말
 👋 안녕하세요.       
 
-## Github 상태
-<img src="https://github-readme-stats.vercel.app/api?username=gitsunmin&show_icons=true&theme=algolia&hide_title=true"/>    
-
 ## 사용가능한 기술
 <p>
   <!-- 사용가능한 언어 -->
