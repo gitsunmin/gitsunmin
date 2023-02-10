@@ -3,7 +3,7 @@
 
 <img src="https://gitsunmin.dev/_next/image?url=https%3A%2F%2Fwww.notion.so%2Fimage%2Fhttps%253A%252F%252Fs3-us-west-2.amazonaws.com%252Fsecure.notion-static.com%252Fee5b029f-ed50-4f92-82f4-329b99e1a135%252FIMG_3417.webp%3Ftable%3Dblock%26id%3D60d2a1c3-6352-4af3-b993-6a3b3b9534fb%26cache%3Dv2&w=3840&q=75" 
 style="object-fit: cover; height: 300px; width: 100%"/>
-<p align="center">
+<p align="center" style="padding: 0px">
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=007E7E&height=100&section=header&text=Gitsunmin&fontColor=F4631E&fontAlignX=45&fontAlignY=35&fontSize=40&animation=twinkling"/>
 </p>
 
