@@ -2,11 +2,14 @@
 <!-- 뱃지 관련 URL: https://shields.io/ -->
 
 <p>
-  <!-- 사용가능한 언어 -->
+  <!-- about version managing tool -->
+  <img src="https://img.shields.io/badge/-Git-gray?logo=git&logoColor=white"/>
+  <br />  
+  <!-- about language -->
   <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white"/>
   <br />
-  <!-- 사용가능한 프래임워크 및 라이브러리 -->
+  <!-- about Framework or library -->
   <img src="https://img.shields.io/badge/-Vue-42B883?logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-React-61DBFB?logo=react&logoColor=white"/>
   <br />
