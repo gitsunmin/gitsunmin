@@ -1,25 +1,14 @@
-<!-- 아이콘 관련 URL: https://simpleicons.org/ -->
-<!-- 뱃지 관련 URL: https://shields.io/ -->
 
-<p>
-  <!-- about version managing tool -->
-  <img src="https://img.shields.io/badge/-Git-gray?logo=git&logoColor=white"/>
-  <br />  
-  <!-- about language -->
-  <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white"/>
-  <br />
-  <!-- about Framework or library -->
-  <img src="https://img.shields.io/badge/-Vue-42B883?logo=Vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React-61DBFB?logo=react&logoColor=white"/>
-  <br />
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white"/>
-  <br />
-  <!-- About Testing -->
-  <img src="https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white"/>
-  <br />
-  <!-- About Style -->
-  <img src="https://img.shields.io/badge/-Scss/Sass-CC6699?logo=sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-StyledComponents-DB7093?logo=styledComponents&logoColor=white"/>
-</p>
+**Languages and Tools**
+
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Git-grey?logo=git"/></code>
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-JavaScript-grey?logo=javascript"/></code>
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-TypeScript-grey?logo=typescript"/></code>
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Vue-grey?logo=Vue.js"/></code>
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-React-grey?logo=react"/></code>
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-GraphQL-grey?logo=graphql"/></code>
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Storybook-grey?logo=storybook"/></code>
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Jest-grey?logo=jest"/></code>
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Scss/Sass-grey?logo=sass"/></code>
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-StyledComponents-grey?logo=styledComponents"/></code>
+
