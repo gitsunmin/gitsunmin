@@ -19,3 +19,7 @@
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Scss/Sass-grey?logo=sass"/></code>
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-StyledComponents-grey?logo=styledComponents"/></code>
 
+**Learning**    
+
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Rust-grey?logo=Rust"/></code>
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Functional_Programing-grey"/></code>
