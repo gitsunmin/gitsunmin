@@ -18,6 +18,7 @@
 <br />
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Apollo-grey?logo=apollographql"/></code>
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-GraphQL-grey?logo=graphql"/></code>
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Relay-grey?logo=relay"/></code>
 <br />
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Storybook-grey?logo=storybook"/></code>
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Jest-grey?logo=jest"/></code>
@@ -27,7 +28,7 @@
 
 **Learning**    
 
-<code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Relay-grey?logo=relay"/></code>
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Next.js-grey?logo=nextdotjs"/></code>
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Next.js-grey?logo=nextdotjs"/></code>
 
 
