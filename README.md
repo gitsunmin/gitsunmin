@@ -15,6 +15,7 @@
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Vue-grey?logo=Vue.js"/></code>
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-React-grey?logo=react"/></code>
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Flutter-grey?logo=Flutter"/></code>
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Next.js-grey?logo=nextdotjs"/></code>
 <br />
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Apollo-grey?logo=apollographql"/></code>
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-GraphQL-grey?logo=graphql"/></code>
@@ -28,8 +29,6 @@
 
 **Learning**    
 
-<code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Next.js-grey?logo=nextdotjs"/></code>
-<code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Next.js-grey?logo=nextdotjs"/></code>
-
+...
 
 
