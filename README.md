@@ -28,8 +28,4 @@
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-StyledComponents-grey?logo=styledComponents"/></code>
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-TailwindCSS-grey?logo=tailwindcss"/></code>
 
-**Learning**    
-
-open source?
-
 
