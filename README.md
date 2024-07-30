@@ -3,6 +3,7 @@
 
 # 안녕하세요.
 
+간단히 사용 가능한 기술들과 개인적으로 작업한 프로젝트들을 소개합니다.
 
 ## Tech
 **Languages**    
@@ -31,10 +32,17 @@
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Scss/Sass-grey?logo=sass"/></code>
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-StyledComponents-grey?logo=styledComponents"/></code>
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-TailwindCSS-grey?logo=tailwindcss"/></code>
+<br />
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Node.js-grey?logo=node.js"/></code>
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Bun-grey?logo=bun"/></code>
+<br />
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Npm-grey?logo=npm"/></code>
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Yarn-grey?logo=yarn"/></code>
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Pnpm-grey?logo=pnpm"/></code>
 
-## Side Project
+## Projects
 
-리클라이너에 앉아서 간단하게 작업한 프로젝트들을 저장 해두고 있어요.    
+리클라이너/빈백에 앉아서 간단하게 작업한 프로젝트들을 저장 해두고 있어요.     
 👉 [here](https://github.com/gitsunmin/on-recliner)
 
 최근에는 GraphQL을 VScode에서 직접 사용하면서 테스트할 수 있는 Extension을 개발하고 있습니다.
