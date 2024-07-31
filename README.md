@@ -49,4 +49,9 @@
 - 💾 [Repository](https://github.com/gitsunmin/graph-man)
 - 🏬 [Market](https://marketplace.visualstudio.com/items?itemName=gitsunmin.graph-man)
 
+## Learning
+
+- Functional Programing:
+    - https://github.com/gcanti/fp-ts
+    - https://product.kyobobook.co.kr/detail/S000212169678
 
