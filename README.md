@@ -40,18 +40,3 @@
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Yarn-grey?logo=yarn"/></code>
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Pnpm-grey?logo=pnpm"/></code>
 
-## Projects
-
-리클라이너/빈백에 앉아서 간단하게 작업한 프로젝트들을 저장 해두고 있어요.     
-👉 [here](https://github.com/gitsunmin/on-recliner)
-
-최근에는 GraphQL을 VScode에서 직접 사용하면서 테스트할 수 있는 Extension을 개발하고 있습니다.
-- 💾 [Repository](https://github.com/gitsunmin/graph-man)
-- 🏬 [Market](https://marketplace.visualstudio.com/items?itemName=gitsunmin.graph-man)
-
-## Learning
-
-- Functional Programing:
-    - https://github.com/gcanti/fp-ts
-    - https://product.kyobobook.co.kr/detail/S000212169678
-
