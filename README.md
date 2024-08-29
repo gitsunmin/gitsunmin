@@ -1,9 +1,7 @@
 <!-- 아이콘 관련 URL: https://simpleicons.org/ -->
 <!-- 뱃지 관련 URL: https://shields.io/ -->
 
-# 안녕하세요.
-
-간단히 사용 가능한 기술들과 개인적으로 작업한 프로젝트들을 소개합니다.
+# 👋
 
 ## Tech
 **Languages**    
@@ -39,4 +37,8 @@
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Npm-grey?logo=npm"/></code>
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Yarn-grey?logo=yarn"/></code>
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Pnpm-grey?logo=pnpm"/></code>
+<br />
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Jira-grey?logo=jira"/></code>
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Bitbucket-grey?logo=bitbucket"/></code>
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Github-grey?logo=github"/></code>
 
