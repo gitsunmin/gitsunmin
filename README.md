@@ -8,7 +8,6 @@
     
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-JavaScript-grey?logo=javascript"/></code>
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-TypeScript-grey?logo=typescript"/></code>
-<code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Dart-grey?logo=dart"/></code>
    
    
 **Tools**     
