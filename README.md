@@ -41,3 +41,7 @@
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Bitbucket-grey?logo=bitbucket"/></code>
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Github-grey?logo=github"/></code>
 
+
+**Learning**    
+    
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Tensorflow-grey?logo=tensorflow"/></code>
