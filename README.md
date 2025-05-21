@@ -68,6 +68,4 @@
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Tensorflow-grey?logo=tensorflow"/></code>
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Nestjs-grey?logo=nestjs"/></code>
 -->
-**Learning**    
 
-<code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Turborepo-grey?logo=turborepo"/></code>
