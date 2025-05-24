@@ -46,6 +46,7 @@
 <br />
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Storybook-grey?logo=storybook"/></code>
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Jest-grey?logo=jest"/></code>
+<code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Vitest-grey?logo=vitest"/></code>
 <br />
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Scss/Sass-grey?logo=sass"/></code>
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-StyledComponents-grey?logo=styledComponents"/></code>
