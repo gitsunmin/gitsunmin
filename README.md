@@ -1,12 +1,18 @@
 <!-- 아이콘 관련 URL: https://simpleicons.org/ -->
 <!-- 뱃지 관련 URL: https://shields.io/ -->
+<!-- zalgo text -->
 
-# 👋 <!-- zalgo text -->
+<a href="https://gitsunmin.github.io">
+  <img src="https://gitsunmin.github.io/assets/default-og-omage.webp" alt="Websitege of Gitsunmin" />
+</a>
+
+☝️ Click Me
+
 <!--
 ## Carrer
 
 ### (주) 마켓보로
-- 2020.10 ~
+- 2020.10 ~ 2025.12
 - WCC, Commerce Dev팀/프론트엔드 개발자
 - Vue(Nuxt), React(Next)를 사용하여 웹/모바일 환경 서비스 개발
 - GraphQL(Apollo, Relay)를 사용하여 백엔드와의 소통
@@ -24,13 +30,16 @@
 
 -->
 
+<!--
 ## Tech
 **Languages**    
     
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-JavaScript-grey?logo=javascript"/></code>
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-TypeScript-grey?logo=typescript"/></code>
-   
-   
+
+-->
+
+<!--
 **Tools**     
      
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Git-grey?logo=git"/></code>
@@ -62,6 +71,7 @@
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Jira-grey?logo=jira"/></code>
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Bitbucket-grey?logo=bitbucket"/></code>
 <code style="display: inline-flex; justify-content: center; align-items: center;"><img src="https://img.shields.io/badge/-Github-grey?logo=github"/></code>
+-->
 
 <!--
 **Learning**    
