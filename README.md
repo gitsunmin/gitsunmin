@@ -2,7 +2,7 @@
 <!-- 뱃지 관련 URL: https://shields.io/ -->
 <!-- zalgo text -->
 
-<a href="https://gitsunmin.github.io">
+<a href="https://gitsunmin.github.io" target="_blank">
   <img src="https://gitsunmin.github.io/assets/default-og-omage.webp" alt="Websitege of Gitsunmin" />
 </a>
 
